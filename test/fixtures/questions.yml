@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  QuestionID: 1
+  Author: MyString
+  Date: 2014-07-31
+  arithmetic: false
+  calculus: false
+  question: MyText
+
+two:
+  QuestionID: 1
+  Author: MyString
+  Date: 2014-07-31
+  arithmetic: false
+  calculus: false
+  question: MyText
